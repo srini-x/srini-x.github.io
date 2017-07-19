@@ -31,5 +31,5 @@ Following are the projects from my Nanodegree programs.
 ### Contact
 
 [**LinkedIn**](https://www.linkedin.com/in/srini-x/)
-[**Twitter**](https://twitter.com/srini27even)
+[**Twitter**](https://twitter.com/srini__vas)
 
