@@ -12,7 +12,9 @@ I am a dreamer and an engineer. I like to invent and build things. Robotics and 
 
 ### What's new?
 
-I am currently enrolled in 2 Nanodegree programs from [Udacity](https://www.udacity.com/). [Deep Learning Foundations](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) and [Self-Driving Car Engineer](https://www.udacity.com/drive). Also, building a Raspberry Pi based toy car to implement the ideas from the class.
+- Got my first Udacity Nanodegree in [Deep Learning Foundations](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101).
+- Also completed Term 1 of [Self-Driving Car Engineer](https://www.udacity.com/drive). Term 2 is starting in September 2017. Building a Raspberry Pi based autonomous car in the meantime.
+- I am currently enrolled in Term 1 of [Robotics Nanodegree](https://www.udacity.com/course/robotics-nanodegree--nd209).
 
 
 ### Projects
