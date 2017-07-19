@@ -33,4 +33,3 @@ Following are the projects from my Nanodegree programs.
 [**LinkedIn**](https://www.linkedin.com/in/srini-x/)
 [**Twitter**](https://twitter.com/srini27even)
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/n1a7o44WxNo" frameborder="0" allowfullscreen></iframe></div>
