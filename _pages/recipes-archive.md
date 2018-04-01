@@ -1,6 +1,6 @@
 ---
-layout: collection
 title: "Recipes"
+layout: collection
 collection: recipes
 permalink: /recipes-archive/
 author_profile: false

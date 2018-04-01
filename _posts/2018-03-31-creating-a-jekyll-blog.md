@@ -2,7 +2,7 @@
 layout: single
 title:  "Creating a Jekyll Blog"
 date:   2018-03-31 22:00:00 -0700
-categories: jekyll
+categories: Jekyll
 ---
 
 Following are the steps to create this Jekyll blog.
